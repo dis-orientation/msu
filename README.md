@@ -1,4 +1,4 @@
 msu
 ===
 
-MSU Disorientation Guide
+MSU Disorientation Guide -- Coming Soon
