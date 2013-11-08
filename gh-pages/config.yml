@@ -1,0 +1,10 @@
+name: "MSU Disorientation Guide"
+description: "Michigan State University's Disorientation guide"
+
+url: "http://msu.dis-orientation.info"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
