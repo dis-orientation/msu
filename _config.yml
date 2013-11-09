@@ -1,0 +1,10 @@
+name: "MSU Disorientation"
+description: "All the things you ought to know about MSU"
+
+url: "http://msu.dis-orientation.info"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
