@@ -80,10 +80,6 @@ DIV CONTAINERS AND SOME STYLING THEREOF:
 	text-decoration: none;
 }
 
-#page-title table{
-	width: 100%;
-}
-
 #page-title table td.left{
 	text-align: left;
 	vertical-align:middle;
