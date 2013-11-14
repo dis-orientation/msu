@@ -1,5 +1,5 @@
 ---
-title: MSU Disorientation Contact
+title: MSU Dis-orientation Contact
 layout: default
 ---
 

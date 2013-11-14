@@ -1,5 +1,5 @@
 ---
-title: MSU Disorientation About
+title: MSU Dis-orientation About
 layout: default
 ---
 

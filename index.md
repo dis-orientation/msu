@@ -1,9 +1,9 @@
 ---
-title: MSU Disorientation
+title: MSU Dis-orientation
 layout: default
 ---
 
-## Join MSU disorientation!
+## Join MSU Dis-orientation!
 
 The disorientation group at Michigan State University is looking for people to get involved. We're currently doing a lot of the work to maintain `dis-orientation.info`.
 
