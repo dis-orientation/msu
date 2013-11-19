@@ -9,7 +9,7 @@ tags:
 - money
 ---
 
-### MSU Board of Trustees with seemingly limitless allowance
+### MSU Board of Trustees have seemingly limitless allowance
 
 There was a [recent article](http://www.wxyz.com/dpp/news/local_news/investigations/while-tuition-rises-some-michigan-state-university-officials-spend-lavishly-with-university-money) from a local news channel that reports some of the lavish spending of our very own Board of Trustees.
 
