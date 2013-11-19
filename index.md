@@ -1,10 +1,38 @@
 ---
-title: MSU Dis-orientation
+title: MSU Dis-orientation Blog
 layout: default
 ---
 
-## Join MSU Dis-orientation!
+## MSU Dis-orientation Blog
 
-The disorientation group at Michigan State University is looking for people to get involved. We're currently doing a lot of the work to maintain `dis-orientation.info`.
-
-So, in order to start producing our own content, we need more folks to get involved. If you're interested in working with us, please [contact us](http://msu.dis-orientation.info/contact).
+{% for post in site.posts %}
+{% if forloop.last != true %}
+<div class="post">
+<div class="preview-title">
+<span class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></span>
+<br/>
+<div class="date">{{ post.date | date: "%B %e, %Y" }}</div>
+</div>
+<div class="post-excerpt">
+<a href="{{ post.url }}" class="excerpt-link">
+{{ post.content | split:"<!-- more -->" | first }}
+</a>
+<br/>
+</div>
+</div>
+{% else %}
+<div class="post-last">
+<div class="preview-title">
+<span class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></span>
+<br/>
+<div class="date">{{ post.date | date: "%B %e, %Y" }}</div>
+</div>
+<div class="post-excerpt">
+<a href="{{ post.url }}" class="excerpt-link">
+{{ post.content | split:"<!-- more -->" | first }}
+</a>
+<br/>
+</div>
+</div>
+{% endif %}
+{% endfor %}
